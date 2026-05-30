@@ -1,0 +1,188 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.yang-1989.eu.org/logo/五星体育.png" group-title="五星",五星体育
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="五星",五星体育
+https://cdn15.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/FIFA%2B.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="体育",FIFA+
+https://9923722c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/d9f55aa1-5372-4756-a5f4-03f39253f14d/5.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Canal%2BSport360Proto2023.svg/revision/latest/scale-to-width-down/284?cb=20231208214034" group-title="体育",CANAL +SPORT 360
+https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
+#EXTINF:-1 tvg-name="CANAL +FOOT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Canal%2BFootProto2023.svg/revision/latest/scale-to-width-down/300?cb=20231208214811" group-title="体育",CANAL +FOOT
+https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ViuTV_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="综合",ViuTV
+https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="综合",ViuTV6台
+https://cdn10.163189.xyz/163189/dcd63a47-61e9-4bae-8af3-fca15f2d002b/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbt6r2TcdNtABui1HzicNxSaxuTdTDSwFQaec6OskVGQ&s=10" group-title="综合",星河频道
+https://cdn10.163189.xyz/163189/182d1bd5-0a1a-4db9-bc5b-8a8a74f3869a/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/733?cb=20240506010219&path-prefix=vi" group-title="综合",天映频道(新加坡)
+https://cdn10.163189.xyz/163189/63f586c0-faad-4d2c-b6db-e10fb7f065aa/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhsoWDR0ZbFPXvc-7tXvmdtkbn7EZr2A3dDTiJDssCRhrRXAUYK9TENc&s=10" group-title="综合",天映经典
+https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="体育",DAZN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zzHtD7j1LVQC7ds__MFTPE4dG4MIuEA88MQAEn3dVeiku3-WC4S_fOa5&s=10" group-title="体育",DAZN2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="体育",爱尔达体育2台
+https://edge.119903.xyz/live/elta2.m3u8?token=8e4486d2d5ae3fbe50e83f352a7462547ab3cb4e23c8ee3780ce09002f7acefe&expires=1778709697&vid=elta2
+#EXTINF:-1 tvg-name="4" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育HD
+https://smt.1678520.xyz/163189/b10b2645c6d9de2b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859412&extension=ts&play_token=VyQVmDuxvq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859415&extension=ts&play_token=Mzu83pPeMj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="荷兰",FILM1 ACTION
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1327&extension=ts&play_token=zlKulJlKBc
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sport_Premier_League_NZ.svg/revision/latest/scale-to-width-down/250?cb=20220726192218" group-title="体育",天空体育英超
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1149458&extension=ts&play_token=97pPB2sCVa
+#EXTINF:-1 tvg-id="859415" tvg-name="Eurosport1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859415&extension=ts&play_token=Mzu83pPeMj
+#EXTINF:-1 tvg-id="859414" tvg-name="Eurosport2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859414&extension=ts&play_token=V4vQ2WCvZs
+#EXTINF:-1 tvg-id="859413" tvg-name="Eurosport3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859413&extension=ts&play_token=8ye6Ef7Py7
+#EXTINF:-1 tvg-id="859412" tvg-name="Eurosport4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859412&extension=ts&play_token=482L2mAc4r
+#EXTINF:-1 tvg-id="859411" tvg-name="Eurosport5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859411&extension=ts&play_token=1zi6bPufk0
+#EXTINF:-1 tvg-id="859410" tvg-name="Eurosport6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859410&extension=ts&play_token=31lFSyp2u6
+#EXTINF:-1 tvg-id="859409" tvg-name="Eurosport7 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859409&extension=ts&play_token=vF08WkZJuo
+#EXTINF:-1 tvg-id="859408" tvg-name="Eurosport8 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859408&extension=ts&play_token=rJ2VxxCOZm
+#EXTINF:-1 tvg-id="859407" tvg-name="Eurosport9 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859407&extension=ts&play_token=Gd3n0Slmcw
+#EXTINF:-1 tvg-id="859406" tvg-name="Eurosport10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport10
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859406&extension=ts&play_token=cosNppxZXv
+#EXTINF:-1 tvg-id="859405" tvg-name="Eurosport11 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport11
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859405&extension=ts&play_token=2It27KbqmM
+#EXTINF:-1 tvg-id="859404" tvg-name="Eurosport12 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport12
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859404&extension=ts&play_token=Oo5U2hiPmE
+#EXTINF:-1 tvg-id="859403" tvg-name="Eurosport13 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport13
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859403&extension=ts&play_token=67nHuaAXoq
+#EXTINF:-1 tvg-id="859402" tvg-name="Eurosport14 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport14
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859402&extension=ts&play_token=5bL6GM6Uc9
+#EXTINF:-1 tvg-id="859401" tvg-name="Eurosport15 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport15
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859401&extension=ts&play_token=MTNpBXPooi
+#EXTINF:-1 tvg-id="859400" tvg-name="Eurosport16 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport16
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859400&extension=ts&play_token=qs3RZeuv3u
+#EXTINF:-1 tvg-id="859399" tvg-name="Eurosport17 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport17
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859399&extension=ts&play_token=2FdgkgDWCS
+#EXTINF:-1 tvg-id="859398" tvg-name="Eurosport18 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport18
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859398&extension=ts&play_token=usPGVu1mio
+#EXTINF:-1 tvg-id="859397" tvg-name="Eurosport19 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport19
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859397&extension=ts&play_token=xzpHwbLesE
+#EXTINF:-1 tvg-id="859396" tvg-name="Eurosport20 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport20
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859396&extension=ts&play_token=sTsQNsq1CW
+#EXTINF:-1 tvg-id="859395" tvg-name="Eurosport21 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport21
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859395&extension=ts&play_token=xNoYNYddpM
+#EXTINF:-1 tvg-id="859394" tvg-name="Eurosport22 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport22
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859394&extension=ts&play_token=v393ZJAzZz
+#EXTINF:-1 tvg-id="859393" tvg-name="Eurosport23 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport23
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859393&extension=ts&play_token=1UU1pDoKKE
+#EXTINF:-1 tvg-id="859392" tvg-name="Eurosport24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport24
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859392&extension=ts&play_token=adXIBEyMfP
+#EXTINF:-1 tvg-id="859391" tvg-name="Eurosport25 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport25
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859391&extension=ts&play_token=cAkamMjZir
+#EXTINF:-1 tvg-id="859390" tvg-name="Eurosport26 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport26
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859390&extension=ts&play_token=Az0azTqQ1l
+#EXTINF:-1 tvg-id="859389" tvg-name="Eurosport27 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport27
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859389&extension=ts&play_token=peWlq6zhMR
+#EXTINF:-1 tvg-id="859388" tvg-name="Eurosport28 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport28
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859388&extension=ts&play_token=6U0vaVo4FE
+#EXTINF:-1 tvg-id="859387" tvg-name="Eurosport29 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport29
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859387&extension=ts&play_token=lbXEaTIbtA
+#EXTINF:-1 tvg-id="859386" tvg-name="Eurosport30 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport30
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859386&extension=ts&play_token=sXJTqb8RN6
+#EXTINF:-1 tvg-id="859385" tvg-name="Eurosport31 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport31
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859385&extension=ts&play_token=YDy2pY6bgb
+#EXTINF:-1 tvg-id="859384" tvg-name="Eurosport32 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport32
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859384&extension=ts&play_token=OPq6HUWna8
+#EXTINF:-1 tvg-id="859383" tvg-name="Eurosport33 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport33
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859383&extension=ts&play_token=d7zb4pz8DY
+#EXTINF:-1 tvg-id="859382" tvg-name="Eurosport34 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport34
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859382&extension=ts&play_token=SD59JkTQrW
+#EXTINF:-1 tvg-id="859381" tvg-name="Eurosport35 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport35
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859381&extension=ts&play_token=v66RbbYNdI
+#EXTINF:-1 tvg-id="859380" tvg-name="Eurosport36 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859380&extension=ts&play_token=Pr021X0tVC
+#EXTINF:-1 tvg-id="859379" tvg-name="Eurosport37 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport37
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859379&extension=ts&play_token=cObVlv59Cv
+#EXTINF:-1 tvg-id="859378" tvg-name="Eurosport38 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport38
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859378&extension=ts&play_token=i4gFo2SNBr
+#EXTINF:-1 tvg-id="859377" tvg-name="Eurosport39 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859377&extension=ts&play_token=8vvVanhRw5
+#EXTINF:-1 tvg-id="859376" tvg-name="Eurosport40 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport40
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859376&extension=ts&play_token=1BZ1q9Ahwv
+#EXTINF:-1 tvg-id="859375" tvg-name="Eurosport41 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport41
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859375&extension=ts&play_token=sl5LDGUuET
+#EXTINF:-1 tvg-id="859374" tvg-name="Eurosport42 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport42
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859374&extension=ts&play_token=ajZa8WDIK4
+#EXTINF:-1 tvg-id="859373" tvg-name="Eurosport43 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport43
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859373&extension=ts&play_token=HkyKAqVHOx
+#EXTINF:-1 tvg-id="859372" tvg-name="Eurosport44 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport44
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859372&extension=ts&play_token=A5KxNx3tZp
+#EXTINF:-1 tvg-id="859371" tvg-name="Eurosport45 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport45
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859371&extension=ts&play_token=KcgOK0YNFa
+#EXTINF:-1 tvg-id="859370" tvg-name="Eurosport46 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport46
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859370&extension=ts&play_token=y6nubKS4wT
+#EXTINF:-1 tvg-id="859369" tvg-name="Eurosport47 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport47
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859369&extension=ts&play_token=fiITZVAzWJ
+#EXTINF:-1 tvg-id="859368" tvg-name="Eurosport48 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport48
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859368&extension=ts&play_token=ozhdUZ8MZ5
+#EXTINF:-1 tvg-id="859367" tvg-name="Eurosport49 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport49
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859367&extension=ts&play_token=aFpY10r1xJ
+#EXTINF:-1 tvg-id="859366" tvg-name="Eurosport50 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport50
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859366&extension=ts&play_token=BPyKiCosLc
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FIGHTSPORTHD.png" group-title="新加坡",FIGHT SPORTS HD
+https://iptv.852851.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="新加坡",Hub Premier 1 HD
+https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
+#EXTINF:-1 tvg-name="Hub Premier 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="新加坡",Hub Premier 2 HD
+https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="新加坡",Hub Premier 3 HD
+https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="新加坡",Hub Premier 4 HD
+https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="新加坡",Hub Premier 5 HD
+https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="新加坡",Hub Premier 6 HD
+https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="新加坡",Hub Premier 7 HD
+https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="新加坡",Hub Premier 8 HD
+https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="新加坡",Hub Sports 1 HD
+https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="新加坡",Hub Sports 2 HD
+https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="新加坡",Hub Sports 3 HD
+https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="新加坡",Hub Sports 4 HD
+https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="新加坡",Hub Sports 5 HD
+https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="新加坡",Hub Sports 6 HD
+https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="新加坡",Hub Sports 7 HD
+https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="新加坡",Hub Sports 8 HD
+https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="新加坡",beIN Sports 2 HD
+https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="新加坡",beIN Sports 3 HD
+https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="新加坡",beIN Sports 4 HD
+https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="新加坡",beIN Sports 5 HD
+https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/213_1920x1080_HTV.png" group-title="新加坡",beIN Sports HD
+https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
+
+
