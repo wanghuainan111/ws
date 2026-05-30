@@ -1,0 +1,104 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 tvg-id="859415" tvg-name="Eurosport1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859415&extension=ts&play_token=Mzu83pPeMj
+#EXTINF:-1 tvg-id="859414" tvg-name="Eurosport2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859414&extension=ts&play_token=V4vQ2WCvZs
+#EXTINF:-1 tvg-id="859413" tvg-name="Eurosport3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859413&extension=ts&play_token=8ye6Ef7Py7
+#EXTINF:-1 tvg-id="859412" tvg-name="Eurosport4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859412&extension=ts&play_token=482L2mAc4r
+#EXTINF:-1 tvg-id="859411" tvg-name="Eurosport5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859411&extension=ts&play_token=1zi6bPufk0
+#EXTINF:-1 tvg-id="859410" tvg-name="Eurosport6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859410&extension=ts&play_token=31lFSyp2u6
+#EXTINF:-1 tvg-id="859409" tvg-name="Eurosport7 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859409&extension=ts&play_token=vF08WkZJuo
+#EXTINF:-1 tvg-id="859408" tvg-name="Eurosport8 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859408&extension=ts&play_token=rJ2VxxCOZm
+#EXTINF:-1 tvg-id="859407" tvg-name="Eurosport9 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859407&extension=ts&play_token=Gd3n0Slmcw
+#EXTINF:-1 tvg-id="859406" tvg-name="Eurosport10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport10
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859406&extension=ts&play_token=cosNppxZXv
+#EXTINF:-1 tvg-id="859405" tvg-name="Eurosport11 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport11
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859405&extension=ts&play_token=2It27KbqmM
+#EXTINF:-1 tvg-id="859404" tvg-name="Eurosport12 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport12
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859404&extension=ts&play_token=Oo5U2hiPmE
+#EXTINF:-1 tvg-id="859403" tvg-name="Eurosport13 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport13
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859403&extension=ts&play_token=67nHuaAXoq
+#EXTINF:-1 tvg-id="859402" tvg-name="Eurosport14 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport14
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859402&extension=ts&play_token=5bL6GM6Uc9
+#EXTINF:-1 tvg-id="859401" tvg-name="Eurosport15 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport15
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859401&extension=ts&play_token=MTNpBXPooi
+#EXTINF:-1 tvg-id="859400" tvg-name="Eurosport16 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport16
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859400&extension=ts&play_token=qs3RZeuv3u
+#EXTINF:-1 tvg-id="859399" tvg-name="Eurosport17 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport17
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859399&extension=ts&play_token=2FdgkgDWCS
+#EXTINF:-1 tvg-id="859398" tvg-name="Eurosport18 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport18
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859398&extension=ts&play_token=usPGVu1mio
+#EXTINF:-1 tvg-id="859397" tvg-name="Eurosport19 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport19
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859397&extension=ts&play_token=xzpHwbLesE
+#EXTINF:-1 tvg-id="859396" tvg-name="Eurosport20 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport20
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859396&extension=ts&play_token=sTsQNsq1CW
+#EXTINF:-1 tvg-id="859395" tvg-name="Eurosport21 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport21
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859395&extension=ts&play_token=xNoYNYddpM
+#EXTINF:-1 tvg-id="859394" tvg-name="Eurosport22 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport22
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859394&extension=ts&play_token=v393ZJAzZz
+#EXTINF:-1 tvg-id="859393" tvg-name="Eurosport23 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport23
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859393&extension=ts&play_token=1UU1pDoKKE
+#EXTINF:-1 tvg-id="859392" tvg-name="Eurosport24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport24
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859392&extension=ts&play_token=adXIBEyMfP
+#EXTINF:-1 tvg-id="859391" tvg-name="Eurosport25 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport25
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859391&extension=ts&play_token=cAkamMjZir
+#EXTINF:-1 tvg-id="859390" tvg-name="Eurosport26 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport26
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859390&extension=ts&play_token=Az0azTqQ1l
+#EXTINF:-1 tvg-id="859389" tvg-name="Eurosport27 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport27
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859389&extension=ts&play_token=peWlq6zhMR
+#EXTINF:-1 tvg-id="859388" tvg-name="Eurosport28 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport28
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859388&extension=ts&play_token=6U0vaVo4FE
+#EXTINF:-1 tvg-id="859387" tvg-name="Eurosport29 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport29
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859387&extension=ts&play_token=lbXEaTIbtA
+#EXTINF:-1 tvg-id="859386" tvg-name="Eurosport30 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport30
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859386&extension=ts&play_token=sXJTqb8RN6
+#EXTINF:-1 tvg-id="859385" tvg-name="Eurosport31 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport31
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859385&extension=ts&play_token=YDy2pY6bgb
+#EXTINF:-1 tvg-id="859384" tvg-name="Eurosport32 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport32
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859384&extension=ts&play_token=OPq6HUWna8
+#EXTINF:-1 tvg-id="859383" tvg-name="Eurosport33 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport33
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859383&extension=ts&play_token=d7zb4pz8DY
+#EXTINF:-1 tvg-id="859382" tvg-name="Eurosport34 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport34
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859382&extension=ts&play_token=SD59JkTQrW
+#EXTINF:-1 tvg-id="859381" tvg-name="Eurosport35 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport35
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859381&extension=ts&play_token=v66RbbYNdI
+#EXTINF:-1 tvg-id="859380" tvg-name="Eurosport36 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport36
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859380&extension=ts&play_token=Pr021X0tVC
+#EXTINF:-1 tvg-id="859379" tvg-name="Eurosport37 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport37
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859379&extension=ts&play_token=cObVlv59Cv
+#EXTINF:-1 tvg-id="859378" tvg-name="Eurosport38 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport38
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859378&extension=ts&play_token=i4gFo2SNBr
+#EXTINF:-1 tvg-id="859377" tvg-name="Eurosport39 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859377&extension=ts&play_token=8vvVanhRw5
+#EXTINF:-1 tvg-id="859376" tvg-name="Eurosport40 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport40
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859376&extension=ts&play_token=1BZ1q9Ahwv
+#EXTINF:-1 tvg-id="859375" tvg-name="Eurosport41 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport41
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859375&extension=ts&play_token=sl5LDGUuET
+#EXTINF:-1 tvg-id="859374" tvg-name="Eurosport42 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport42
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859374&extension=ts&play_token=ajZa8WDIK4
+#EXTINF:-1 tvg-id="859373" tvg-name="Eurosport43 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport43
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859373&extension=ts&play_token=HkyKAqVHOx
+#EXTINF:-1 tvg-id="859372" tvg-name="Eurosport44 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport44
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859372&extension=ts&play_token=A5KxNx3tZp
+#EXTINF:-1 tvg-id="859371" tvg-name="Eurosport45 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport45
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859371&extension=ts&play_token=KcgOK0YNFa
+#EXTINF:-1 tvg-id="859370" tvg-name="Eurosport46 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport46
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859370&extension=ts&play_token=y6nubKS4wT
+#EXTINF:-1 tvg-id="859369" tvg-name="Eurosport47 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport47
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859369&extension=ts&play_token=fiITZVAzWJ
+#EXTINF:-1 tvg-id="859368" tvg-name="Eurosport48 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport48
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859368&extension=ts&play_token=ozhdUZ8MZ5
+#EXTINF:-1 tvg-id="859367" tvg-name="Eurosport49 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport49
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859367&extension=ts&play_token=aFpY10r1xJ
+#EXTINF:-1 tvg-id="859366" tvg-name="Eurosport50 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport50
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859366&extension=ts&play_token=BPyKiCosLc

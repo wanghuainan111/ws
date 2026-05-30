@@ -1,0 +1,48 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FIGHTSPORTHD.png" group-title="新加坡",FIGHT SPORTS HD
+https://iptv.852851.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="新加坡",Hub Premier 1 HD
+https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
+#EXTINF:-1 tvg-name="Hub Premier 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="新加坡",Hub Premier 2 HD
+https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="新加坡",Hub Premier 3 HD
+https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="新加坡",Hub Premier 4 HD
+https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="新加坡",Hub Premier 5 HD
+https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="新加坡",Hub Premier 6 HD
+https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="新加坡",Hub Premier 7 HD
+https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="新加坡",Hub Premier 8 HD
+https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/221_1920x1080_HTV.png" group-title="新加坡",Hub Sports 1 HD
+https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/222_1920x1080_HTV.png" group-title="新加坡",Hub Sports 2 HD
+https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/223_1920x1080_HTV.png" group-title="新加坡",Hub Sports 3 HD
+https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/224_1920x1080_HTV.png" group-title="新加坡",Hub Sports 4 HD
+https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/225_1920x1080_HTV.png" group-title="新加坡",Hub Sports 5 HD
+https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/226_1920x1080_HTV.png" group-title="新加坡",Hub Sports 6 HD
+https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/227_1920x1080_HTV.png" group-title="新加坡",Hub Sports 7 HD
+https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/228_1920x1080_HTV.png" group-title="新加坡",Hub Sports 8 HD
+https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/211_1920x1080_HTV.png" group-title="新加坡",beIN Sports 2 HD
+https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/214_1920x1080_HTV.png" group-title="新加坡",beIN Sports 3 HD
+https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="beIN Sports 4 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/215_1920x1080_HTV.png" group-title="新加坡",beIN Sports 4 HD
+https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="beIN Sports 5 HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/216_1920x1080_HTV.png" group-title="新加坡",beIN Sports 5 HD
+https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/213_1920x1080_HTV.png" group-title="新加坡",beIN Sports HD
+https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8

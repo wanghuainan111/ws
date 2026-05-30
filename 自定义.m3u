@@ -1,0 +1,42 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.yang-1989.eu.org/logo/五星体育.png" group-title="五星",五星体育
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/FIFA%2B.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="体育",FIFA+
+https://9923722c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/d9f55aa1-5372-4756-a5f4-03f39253f14d/5.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Canal%2BSport360Proto2023.svg/revision/latest/scale-to-width-down/284?cb=20231208214034" group-title="体育",CANAL +SPORT 360
+https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
+#EXTINF:-1 tvg-name="CANAL +FOOT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Canal%2BFootProto2023.svg/revision/latest/scale-to-width-down/300?cb=20231208214811" group-title="体育",CANAL +FOOT
+https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ViuTV_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="综合",ViuTV
+https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="综合",ViuTV6台
+https://cdn10.163189.xyz/163189/dcd63a47-61e9-4bae-8af3-fca15f2d002b/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbt6r2TcdNtABui1HzicNxSaxuTdTDSwFQaec6OskVGQ&s=10" group-title="综合",星河频道
+https://cdn10.163189.xyz/163189/182d1bd5-0a1a-4db9-bc5b-8a8a74f3869a/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/733?cb=20240506010219&path-prefix=vi" group-title="综合",天映频道(新加坡)
+https://cdn10.163189.xyz/163189/63f586c0-faad-4d2c-b6db-e10fb7f065aa/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhsoWDR0ZbFPXvc-7tXvmdtkbn7EZr2A3dDTiJDssCRhrRXAUYK9TENc&s=10" group-title="综合",天映经典
+https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="体育",DAZN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zzHtD7j1LVQC7ds__MFTPE4dG4MIuEA88MQAEn3dVeiku3-WC4S_fOa5&s=10" group-title="体育",DAZN2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="体育",爱尔达体育2台
+https://edge.119903.xyz/live/elta2.m3u8?token=8e4486d2d5ae3fbe50e83f352a7462547ab3cb4e23c8ee3780ce09002f7acefe&expires=1778709697&vid=elta2
+#EXTINF:-1 tvg-name="4" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="体育",纬来体育HD
+https://smt.1678520.xyz/163189/b10b2645c6d9de2b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859412&extension=ts&play_token=VyQVmDuxvq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="体育",Eurosport 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=859415&extension=ts&play_token=Mzu83pPeMj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="荷兰",FILM1 ACTION
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1327&extension=ts&play_token=zlKulJlKBc
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sport_Premier_League_NZ.svg/revision/latest/scale-to-width-down/250?cb=20220726192218" group-title="体育",天空体育英超
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=1149458&extension=ts&play_token=97pPB2sCVa
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="五星",五星体育
+https://cdn15.163189.xyz/163189/wxty
