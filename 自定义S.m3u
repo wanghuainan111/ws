@@ -3,7 +3,7 @@
 #EXT-X-APTV-TYPE blank
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.yang-1989.eu.org/logo/五星体育.png" group-title="五星",五星体育
-https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="五星",五星体育
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="FIFA+" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/FIFA%2B.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="体育",FIFA+
